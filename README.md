@@ -28,5 +28,17 @@ I'm still trying to figure out if I want to be a game, software or web developer
 
 ## Projects
 
-#### [MobilePayAlerts](https://tearzz.itch.io/mobilepayalerts)
+#### [MobilePayAlerts](https://tearzz.itch.io/mobilepayalerts)  
+
+**What is it?**  
 An application made for Danish broadcasters, which combines the Danish payment system MobilePay, the alert widget system Streamlabs and the push notification service Pushbullet.
+
+**Why?**  
+I wanted to create a free alternative to a similar service, while also making users able to run it locally. I also released this for free. It was more of a learning project, since it was my first time creating GUI with Python.
+
+**Details:**
+- **General**
+    - Released 06. August 2018
+    - 3700+ downloads
+    - Gets the same amount of downloads and clicks as when it was released
+    - 60% of people that visits the store page, downloads MobilePayAlerts
