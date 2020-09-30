@@ -8,6 +8,9 @@ I love to learn and create! My current focus is to create small, lightweight and
 
 I'm still trying to figure out if I want to be a game, software or web developer, or if I want to be a teacher.
 
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benstigsen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=benstigsen&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## Programming
@@ -37,8 +40,7 @@ An application made for Danish broadcasters, which combines the Danish payment s
 I wanted to create a free alternative to a similar service, while also making users able to run it locally. I also released this for free. It was more of a learning project, since it was my first time creating GUI with Python.
 
 **Details:**
-- **General**
-    - Released 06. August 2018
-    - 3700+ downloads
-    - Gets the same amount of downloads and clicks as when it was released
-    - 60% of people that visits the store page, downloads MobilePayAlerts
+  - Released 06. August 2018
+  - 3900+ downloads _(as of 30. September 2020)_
+  - Gets the same amount of downloads and clicks as when it was released
+  - 60% of people that visit the store page, downloads MobilePayAlerts
