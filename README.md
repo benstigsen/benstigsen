@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Benjamin, I'm a 19 year-old hobbyist programmer, living in Denmark.
+My name is Benjamin, I'm a 20 year-old hobbyist programmer, living in Denmark.
 
 I'm currently on my 3rd year (2021) studying for the [Higher Technical Examination Programme](https://en.m.wikipedia.org/wiki/Higher_Technical_Examination_Programme) (HTX).
 
