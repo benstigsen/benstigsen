@@ -41,6 +41,6 @@ I wanted to create a free alternative to a similar service, while also making us
 
 **Details:**
   - Released 06. August 2018
-  - 3900+ downloads _(as of 30. September 2020)_
+  - 4300+ downloads _(as of 9. January 2021)_
   - Gets the same amount of downloads and clicks as when it was released
   - 60% of people that visit the store page, downloads MobilePayAlerts
