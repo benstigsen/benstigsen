@@ -15,13 +15,16 @@ I'm still trying to figure out if I want to be a game, software or web developer
 
 ## Programming
 
-**Languages I'd consider myself good at:**
+**Currently learning:**
+- V
+
+**Experienced in:**
 - C
 - JavaScript
 - Python
 - [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html#introduction) (The Godot Engine scripting language)
 
-**Languages I've used, but not currently using:**
+**Previously been using:**
 - Ruby
 - Rust
 - Lua
