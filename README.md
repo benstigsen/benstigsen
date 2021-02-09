@@ -18,23 +18,28 @@ I'm still trying to figure out if I want to be a game, software or web developer
 ## Programming
 
 **Currently learning:**
+- Wren (using **[DOME](https://domeengine.com/)**)
 - V
 
-**Experienced in:**
-- C
-- JavaScript
+**Advanced:**
 - Python
-- [GDScript](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html#introduction) (The Godot Engine scripting language)
+- JavaScript
 
-**Previously been using:**
-- Ruby
-- Rust
-- Lua
+**Intermediate:**
+- C
+- GDScript (The Godot Engine scripting language)
 - GML (Game Maker Language)
+- Lua
+
+**Novice:**
+- Rust
+- Ruby
 
 ---
 
 ## Projects
+
+... more to come
 
 #### [MobilePayAlerts](https://tearzz.itch.io/mobilepayalerts)  
 
