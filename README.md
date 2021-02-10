@@ -26,12 +26,12 @@ I'm still trying to figure out if I want to be a game, software or web developer
 - JavaScript
 
 **Intermediate:**
-- C
 - GDScript (The Godot Engine scripting language)
 - GML (Game Maker Language)
 - Lua
 
 **Novice:**
+- C _(I don't like the **make** tool or the different compilers)_
 - Rust
 - Ruby
 
