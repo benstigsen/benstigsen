@@ -11,8 +11,6 @@ I'm still trying to figure out if I want to be a game, software or web developer
 [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benstigsen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=benstigsen&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My trophies](https://github-profile-trophy.vercel.app/?username=benstigsen)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## Programming
