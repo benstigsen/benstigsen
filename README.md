@@ -2,9 +2,7 @@
 
 My name is Benjamin, I'm a 20 year-old hobbyist programmer, living in Denmark.
 
-I'm currently on my 3rd year (2021) studying for the [Higher Technical Examination Programme](https://en.m.wikipedia.org/wiki/Higher_Technical_Examination_Programme) (HTX).
-
-I love to learn and create! My current focus is to create small, lightweight and efficient software.
+I love to learn and create! My current focus is to create small, lightweight and efficient software and tools.
 
 I'm still trying to figure out if I want to be a game, software or web developer, or if I want to be a teacher.
 
