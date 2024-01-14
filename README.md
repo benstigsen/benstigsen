@@ -1,6 +1,6 @@
-### Hello!
+# Hello!
 
-My name is Benjamin, I'm a 21-year old who has an interest in programming.
+My name is Benjamin, I'm a 23 year-old who has an interest in programming.
 
 I love to learn and create! My current focus is to create small, lightweight and efficient software and tools.
 
